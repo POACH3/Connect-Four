@@ -16,7 +16,7 @@ The AI agent was implemented with a graph that is used to store generated game s
   <img src="connect4_application.png" alt="Application" width="800"/>
 </p>
 
-## Planned
+### Planned
 - Addition of two other levels of play difficulty.
 - Fix the issues with the GUI. (see below)
 - Create an API for integrating user-supplied agents.
